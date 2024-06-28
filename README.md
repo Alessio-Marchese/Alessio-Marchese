@@ -1,7 +1,7 @@
 <h1 align="center">Ciao 👋, sono Alessio Marchese</h1>
 <h3 align="center">Un junior web e software developer</h3>
 
-- 🌱 Attualmente sto studiando **.NET MAUI**
+- 🌱 Attualmente sto studiando **.NET MAUI Blazor Hybrid**
 
 - 📫 Ecco dove puoi contattarmi **alessio.marchese148@gmail.com**
 
