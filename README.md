@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alessio Marchese.</h1>
-<h3 align="center">A junior web and software developer</h3>
+<h1 align="center">Ciao 👋, Sono Alessio Marchese.</h1>
+<h3 align="center">Un junior web e software developer</h3>
 
-- 🌱 I am currently working on a personal project with **.NET MAUI Blazor Hybrid**
+- 🌱 Attualmente sto lavorando ad un progetto personale con **.NET MAUI Blazor Hybrid**
 
-- 📫 Here's where you can reach me **alessio.marchese148@gmail.com**
+- 📫 Ecco dove puoi contattarmi **alessio.marchese148@gmail.com**
 
 <p align="left">
 </p>
